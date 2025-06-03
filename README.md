@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arthur Bernardo
+# 👨🏻‍💻 Arthur Bernardo
 
 **`Engenharia de Computação`**
 
